@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="1.0.0-a.133" appVersion="1.0.0-a.133" platformVersion="120.0" buildID="20231129034052">
-    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.133/linux.mar" hashFunction="sha512" hashValue="2bb7e93e17f198e466b7cbbef1ec8b250b528fa1ddebf5ba8710af42eba0cd65a9a0ca91c2df83b737ddd87d39a2c146a99c282031f2295fea8e059ffa6b4b76" size="72144548"/>
+  <update type="minor" displayVersion="1.0.0-a.136" appVersion="1.0.0-a.136" platformVersion="120.0" buildID="20231215092625">
+    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.136/linux.mar" hashFunction="sha512" hashValue="ddbe680785d68f11e643085ef58038a0304e7e98e367f647a0ba4275bf1e40978583322036fd838c7972a3b322fba4ca8d3a640e5008c89ddc01af7f16ca9edc" size="72140663"/>
   </update>
 </updates>
